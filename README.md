@@ -6,4 +6,4 @@
 ### Librerías utilizadas
 - Bootstrap
 ## Live Preview
-[https://daboy.me/ob/sprint2-html-3/](https://daboy.me/ob/sprint2-html-4/)
+[https://daboy.me/ob/sprint2-html-4/](https://daboy.me/ob/sprint2-html-4/)
